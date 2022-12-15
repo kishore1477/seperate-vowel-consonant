@@ -37,17 +37,19 @@ label{
 .vowel{
     margin: 2px;
     width: 50%;
-    text-align: center;
+    /* text-align: center; */
     background-color: rgb(182, 157, 223);
     border-radius: 2px;
+    overflow-x: hidden;
+    padding: 4px;
 }
 .consonant{
     margin: 2px;
     width: 50%;
-    text-align: center;
+    /* text-align: center; */
     background-color: rgb(182, 157, 223);
     border-radius: 2px;
-
+    padding: 4px;
 }
 .form{
     display: flex;
